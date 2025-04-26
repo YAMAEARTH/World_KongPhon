@@ -1,7 +1,7 @@
 # ไม่เอาโฟลเดอร์หรือไฟล์ที่ชื่อเหล่านี้
-Realworld_forestMaskTexCache/
-Realworld_heightTexCache/
-Realworld_mapTexCache/
+Realworld_forestMaskTexCache
+Realworld_heightTexCache
+Realworld_mapTexCache
 
 # ไม่เอาไฟล์ .zip
 *.zip
