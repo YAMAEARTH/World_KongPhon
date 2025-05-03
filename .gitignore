@@ -2,6 +2,9 @@
 Realworld_forestMaskTexCache
 Realworld_heightTexCache
 Realworld_mapTexCache
+test1_forestMaskTexCache
+test1_heightTexCache
+test1_mapTexCache
 
 # ไม่เอาไฟล์ .zip
 *.zip
